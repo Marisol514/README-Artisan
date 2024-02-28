@@ -46,3 +46,30 @@ THEN I am taken to the corresponding section of the README
 
 * Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
 ```
+
+## Screenshots: 
+![alt text](image.png)
+
+Created README.md
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+## Links: 
+
+GitHub Repository: https://github.com/Marisol514/README-Artisan
+
+Link to Recording: https://drive.google.com/file/d/1fP8XgreGTcUw8NIS15XYri1l40VbbPUr/view 
+
+Link to Created README.md: https://drive.google.com/file/d/1T1-ZZkyUW_YOezm4bapWKORj5hixPRHP/view
+
+
+
+## Resources: 
+
+init npm -y: https://docs.npmjs.com/cli/v8/commands/npm-init
+
+Inquirer: https://www.npmjs.com/package/inquirer/v/8.2.4#installation
+
+import.meta: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import.meta
+
+
